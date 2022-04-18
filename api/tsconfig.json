@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "declaration": false,
+      "target": "es5",
+      "module": "commonjs",
+      "outDir": "./build",
+      "rootDir": "./src",
+      "strict": true,
+      "moduleResolution": "node",
+      "strictPropertyInitialization": false,
+      "resolveJsonModule": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "esModuleInterop": true
+  },
+  "exclude": ["node_modules"]
+}
